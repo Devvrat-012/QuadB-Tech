@@ -20,7 +20,7 @@ This is a readme file for a To-Do application built with React and Redux.
 2. Install dependencies:
 
    ```bash
-   cd to-do-app
+   cd QuadB-Tech
    npm install
    ```
 
