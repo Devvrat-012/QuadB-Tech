@@ -27,7 +27,7 @@ function Task({ task }) {
           onChange={handleToggleCompleted}
           className="mr-2"
         />
-        <p className="text-sm">{task.task}</p>
+        <p className="text-sm pl-3">{task.task}</p>
       </div>
       <button
         type="button"
